@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AyaseOnDaPC
 - 👀 I’m interested in Exploit finding stuff
-- 🌱 I’m currently learning Security system mechanical
+- 🌱 I’m currently learning Search Engine Optimizer stuff
 - 💞️ I’m looking to collaborate on (solo maybe?)
-- 📫 How to reach me? saintJNH#9088
+- 📫 How to reach me? depravedfeather on Discord!
 
 <!---
 AyaseOnDaPC/AyaseOnDaPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
